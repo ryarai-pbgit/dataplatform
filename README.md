@@ -10,6 +10,6 @@
 ## 3. 少なからず意味を持つデータセットの作成
 [Chapter 3: 少なからず意味を持つデータセットの作成](chapter3/README.md)
 
-## 4. Cortex Analystの検証済みクエリ
+## 4. Cortex Analystの検証済みクエリ（2025/10/20）
 [Chapter 4: Cortex Analystの検証済みクエリ](chapter4/README.md)
 
